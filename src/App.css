@@ -42,4 +42,10 @@ padding: 0 1.2rem;
 }
 .adress{
 text-align: center;
+font-size: medium;
+}
+.email{
+  font-size: 30px;
+  font-weight: bold;
+  font-family:"Montserrat", sans-serif ;
 }

@@ -10,7 +10,7 @@ export default function Adress() {
     <div>
     <Card.Text>
         <Container>
-    <p className='adress'>Moualla Gafsa Rue Jordan 2100.</p>
+    <p className='adress'> <h2 className='email' >Adress-Mail:</h2>dali.fatma@gmail.com.</p>
     </Container>
       </Card.Text>
       <div className='d-flex justify-content-evenly'>
